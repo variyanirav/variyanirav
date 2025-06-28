@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nirav Shah
+# 👋 Hi there, I'm Nirav Variya
 
 ## 🚀 About Me
 🏗️ Visionary Mobile Architect & Engineering Leader with 12+ years of experience in crafting scalable, secure, and performant mobile apps using **iOS (Swift, Obj-C)**, **Android (Kotlin, Java)**, **React Native**, and **Flutter**.
