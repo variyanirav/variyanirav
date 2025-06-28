@@ -58,8 +58,8 @@
 
 ## 📈 GitHub Stats
 
-![Nirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niravshah&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niravshah&layout=compact&theme=radical)
+![Nirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=variyanirav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=variyanirav&layout=compact&theme=radical)
 
 ---
 
@@ -71,8 +71,8 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niravshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirav-variya)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/variyanirav)
 
 ---
 
