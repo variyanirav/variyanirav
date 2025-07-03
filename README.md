@@ -35,27 +35,6 @@
 
 ---
 
-## 📱 Notable Projects
-
-### 🔹 MODOSCRIPT
-> A hybrid mobile + web solution integrating MODO hardware and Galen Data for remote patient monitoring.  
-**Tech:** Flutter, Dart, Angular, AWS  
-📈 Boosted client engagement and system efficiency.
-
-### 🔹 BREAKERS PARADISE ([App Store](#))
-> Hybrid app for card breakers to host events and sell slots.  
-**Tech:** Flutter  
-🎯 Drove a 10–15% increase in user engagement and revenue.
-
----
-
-## 🧠 Currently Exploring
-- High- & Low-Level **System Design**
-- **Advanced Flutter & React Native** architecture patterns
-- **Data Structures & Algorithms** at scale (Scaler Academy)
-
----
-
 ## 📈 GitHub Stats
 
 ![Nirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=variyanirav&show_icons=true&theme=radical)
